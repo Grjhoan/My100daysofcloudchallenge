@@ -44,11 +44,11 @@
 27. systemctl start httpd
 28. and you see your HTML page created in your browser as http://yourpublicipadress/test.html
 
-![Screenshot](https://drive.google.com/file/d/1Q3p9p1vKGVyBFd4TDl5rR3W-VEXFVaUI/view?usp=sharing)
-![Screenshot](https://drive.google.com/file/d/1zuuaqd4x6oYx5lzH1d3FX5bZyG_JJp06/view?usp=sharing)
-![Screenshot](https://drive.google.com/file/d/1luiD0IYyreUjeiYqRMpsR7BsuUoFiuXW/view?usp=sharing)
-![Screenshot](https://drive.google.com/file/d/1oJVbl0uD6QMKt2FTxbm9rOuBRSOPLtbO/view?usp=sharing)
-![Screenshot](https://drive.google.com/file/d/1JugrXkDdp3dHQC6qlJ7TUC4CO78LxK7M/view?usp=sharing)
-![Screenshot](https://drive.google.com/file/d/1_N1yLXYK8VwGdmO-_szFQTBt2FdMUuB0/view?usp=sharing)
-![Screenshot](https://drive.google.com/file/d/1tsC57sOw_4oIxnHH8T-N_-dtSMsK-Hg6/view?usp=sharing)
-![Screenshot](https://drive.google.com/file/d/17db5vIcMBrYzLoeQhaq38vDKNptT6suk/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1Q3p9p1vKGVyBFd4TDl5rR3W-VEXFVaUI/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1zuuaqd4x6oYx5lzH1d3FX5bZyG_JJp06/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1luiD0IYyreUjeiYqRMpsR7BsuUoFiuXW/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1oJVbl0uD6QMKt2FTxbm9rOuBRSOPLtbO/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1JugrXkDdp3dHQC6qlJ7TUC4CO78LxK7M/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1_N1yLXYK8VwGdmO-_szFQTBt2FdMUuB0/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1tsC57sOw_4oIxnHH8T-N_-dtSMsK-Hg6/view?usp=sharing">
+<img src="https://drive.google.com/file/d/17db5vIcMBrYzLoeQhaq38vDKNptT6suk/view?usp=sharing">
