@@ -24,15 +24,7 @@
 	4.2 Purchasing option: click on Request Spot instances
 	4.3 Now enter the price lower than shown there, example 0.034.
 	4.4 Auto-assign Public IP: Select Enable
-5. Click on advanced details and under the User data section paste this,
-	#!/bin/bash
-	sudo su
-	yum update -y
-	yum install httpd -y
-	systemctl start httpd
-	systemctl enable httpd
-	echo "<html><h1> Testing EC2 spot instances</h1><html>" >>
-	/var/www/html/index.html
+5. Click on advanced details and under the User data section paste the code.
 6. Add Storage (you don't need to add anything)
 7. Add Tags and next.
 8. You need to configure a new Security Group, select "Create a new security group" and add the detail:
