@@ -14,21 +14,27 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## [✍️ Jhoan Zabala]'s Cloud Journey
 
 [✍️ Introduce yourself]
 
+Hello! my name is Jhoan Zabala, I am a computer engineer, I have 7 years of experience in my area and 4 in everything related to service and customer experience, I have worked in technology companies as a systems technician and web developer and in recent years I have served as a software consultant implementing various customer service solutions such as Zendesk, Five9, Surveypal, Tymeshift, among others. I am passionate about technology and this whole world of customer experience.
+
 [✍️ Tell us why you started this challenge]
+
+I've started this challenge because I want to improve my AWS skills.
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+¡Implementing several projects in aws!
+
+- [✍️ Visit my blog](https://cxadvisor.cl)
+- [✍️ My LinkedIn](https://www.linkedin.com/in/jhoanzabala/)
 
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [EC2 Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [EC2 Spot instances Day](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
